@@ -1,0 +1,1 @@
+This is a clock I made based on a tutorial. You can see that it is a fully functioning clock using HTML, CSS, and basic JavaScript properties. 
